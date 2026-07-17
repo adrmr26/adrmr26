@@ -31,13 +31,8 @@ I am a computer engineering student at the Instituto Tecnológico de Costa Rica 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
 ## Github stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrmr26&show_icons=true&theme=tokyonight&locale=en" alt="Adrián's GitHub stats" />
-</p>
+![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrmr26&show_icons=true&theme=tokyonight&locale=en)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrmr26&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrmr26&layout=compact&theme=tokyonight&locale=en)
